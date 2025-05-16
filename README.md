@@ -1,4 +1,7 @@
 ## Hello World! :earth_americas:
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=macbx98&show_icons=true&locale=en&layout=compact" alt="macbx98" /></p>
+
 <table>
 	<tr>
 		<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></td>
